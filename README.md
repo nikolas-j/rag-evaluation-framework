@@ -7,10 +7,15 @@ A dashboard for systematically testing and evaluating Retrieval-Augmented Genera
 Evaluate and optimize your RAG system by measuring:
 
 - **Automated Testing**: Provide a detailed Q/A test set to automatically run evaluation of a RAG-system.
-- **Quality Metrics**: Four LLM-as-judge scores measuring answer correctness, faithfulness to context, and retrieval quality
+- **Quality Metrics**: Four LLM-as-judge scores measuring:
+  1. **correctness**: Does the generated answer match the correct answer?
+  2. **faithfulness**: Is the generated answer based on retrieved information?
+  3. **contextual_precision**: How well the retrieved chunck are oredered.
+  4. **contextual_relevancy**: How much of the retrieved context is relevant to the query?
+     
 - **Performance**: Retrieval latency, generation latency, and total response time per query
 - **Cost Tracking**: Input/output token usage and estimated API costs per query and evaluation run
-- **Optimization**: Test how different embedding/retrieval strategies (chunk size, similarity threshold, top-k, vector/hybrid search), system prompts and detailed queries affect accuracy
+- **Optimization**: Test how different embedding/retrieval strategies (chunk size, similarity threshold, top-k, vector/hybrid search, reranking), system prompts and detailed queries affect accuracy
 
 ![Metrics](docs/keymetricsdisplay.png)
 
