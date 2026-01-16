@@ -1,0 +1,801 @@
+ACME CORPORATION
+REMOTE WORK AND FLEXIBLE WORKPLACE POLICY
+Effective Date: January 1, 2026
+Policy Version: 3.0
+Last Reviewed: December 1, 2025
+
+1. POLICY OVERVIEW
+
+ACME Corporation is committed to providing flexible work arrangements that support productivity, employee well-being, and business objectives. This policy establishes guidelines for remote work, hybrid work arrangements, and flexible scheduling to accommodate diverse employee needs while maintaining operational excellence.
+
+Scope: This policy applies to all ACME employees globally, subject to local labor laws and regulations. Contractors and temporary workers should consult their agencies regarding work arrangements.
+
+2. WORK ARRANGEMENT OPTIONS
+
+ACME offers four primary work arrangement models:
+
+OFFICE-BASED (Traditional):
+Description: Employee works primarily from ACME office location
+Schedule: Standard office hours (typically 9:00 AM - 5:00 PM local time)
+Office Presence: 5 days per week minimum
+Who: Roles requiring physical presence (facilities, lab technicians, certain IT roles)
+Approval: Default arrangement, no special approval required
+
+HYBRID (Recommended Default):
+Description: Employee splits time between office and remote locations
+Schedule: Flexible with core collaboration hours
+Office Presence: Minimum 2 days per week (typically Tuesday-Thursday for team collaboration)
+Remote Days: Maximum 3 days per week
+Who: Most employees including engineering, product, sales, marketing, customer success
+Approval: Manager approval, must align with team collaboration needs
+
+REMOTE-FIRST:
+Description: Employee works primarily from home office or remote location
+Schedule: Flexible hours with overlap with team time zones
+Office Presence: Quarterly in-person meetings (4 times per year), annual company events
+Travel Requirement: Willingness to travel for critical meetings and events
+Who: Roles that can be performed effectively without regular office presence
+Approval: VP approval required, based on role requirements and performance history
+Requirements: Minimum 1 year tenure, demonstrated self-management skills
+
+FULLY REMOTE (Location-Independent):
+Description: Employee may work from anywhere, including different cities/countries
+Schedule: Must maintain 4-hour overlap with core team hours
+Office Presence: Semi-annual in-person meetings, annual company events
+Geographic Restrictions: Must work from country where ACME has legal entity or employment infrastructure
+Who: Senior individual contributors and roles with proven independent productivity
+Approval: SVP approval required, limited to 20% of any team
+Requirements: Minimum 2 years tenure, exceptional performance history, role suitability
+
+3. ELIGIBILITY REQUIREMENTS
+
+General Eligibility Criteria:
+
+Performance Standards:
+- Must meet or exceed performance expectations
+- No active performance improvement plans
+- Demonstrated ability to work independently
+- Strong communication skills
+- Reliable track record of meeting deadlines
+
+Technical Requirements:
+- Reliable high-speed internet connection (minimum 25 Mbps download, 5 Mbps upload)
+- Dedicated workspace conducive to productivity
+- Ability to participate in video conferences
+- Compliance with IT security requirements
+- Availability during core business hours or agreed schedule
+
+Role Suitability Assessment:
+Managers evaluate roles based on:
+- Nature of work (can it be performed remotely?)
+- Collaboration requirements
+- Customer interaction needs
+- Security and compliance considerations
+- Team dynamics and culture
+- Equipment and resource requirements
+
+Positions Typically Ineligible for Full Remote:
+- Facilities and physical security staff
+- Laboratory technicians requiring specialized equipment
+- Roles with daily physical deliverable requirements
+- New employee onboarding coordinators (first 90 days)
+- Positions handling physical confidential materials
+
+Trial Period:
+- All remote/hybrid arrangements include 90-day trial period
+- Manager evaluates productivity, communication, and collaboration
+- Arrangement may be modified or terminated if unsuccessful
+- Employee and manager meet at 30, 60, and 90 days to assess
+
+4. APPLICATION AND APPROVAL PROCESS
+
+Step 1: Self-Assessment
+Employee considers:
+- Can my role be performed effectively with proposed arrangement?
+- Do I have appropriate workspace and technology?
+- Can I maintain productivity and collaboration?
+- How will this impact my team and customers?
+
+Step 2: Proposal Submission
+Employee submits request including:
+- Desired work arrangement (hybrid, remote-first, fully remote)
+- Proposed schedule and office presence commitment
+- Rationale and business justification
+- Description of remote workspace and technology setup
+- Plan for maintaining collaboration and communication
+
+Step 3: Manager Review
+Manager evaluates:
+- Role suitability for remote work
+- Employee performance and work history
+- Team coverage and collaboration needs
+- Business operational requirements
+- Customer impact considerations
+
+Manager discusses with employee within 10 business days
+
+Step 4: Approval Authority
+- Hybrid: Manager approval
+- Remote-First: VP approval (manager recommends)
+- Fully Remote: SVP approval (VP endorses)
+
+Approval factors:
+- Role requirements and nature of work
+- Employee performance and tenure
+- Team distribution and collaboration needs
+- Business objectives and customer needs
+- Equity across team members
+
+Step 5: Documentation
+HR documents approved arrangement including:
+- Work arrangement type and effective date
+- Schedule expectations and office presence requirements
+- Technology and security requirements
+- Review and renewal timeline
+- Modification and termination conditions
+
+Step 6: Setup and Onboarding
+Employee completes:
+- IT security and remote work training
+- Home office setup (ergonomics guidance provided)
+- Test video conferencing and collaboration tools
+- Establish communication norms with team
+- IT security review of home network
+
+5. WORK SCHEDULE AND EXPECTATIONS
+
+Core Collaboration Hours:
+To ensure effective teamwork across time zones, employees must be available during core hours:
+
+Americas Teams:
+- Pacific Time: 10:00 AM - 2:00 PM PT
+- Eastern Time: 1:00 PM - 5:00 PM ET
+- Overlap ensures cross-coast collaboration
+
+EMEA Teams:
+- Central European Time: 10:00 AM - 3:00 PM CET
+- Covers UK, Continental Europe, Middle East
+
+APAC Teams:
+- Japan/Singapore Time: 10:00 AM - 3:00 PM JST/SGT
+- Covers East Asia and Australia markets
+
+Flexible Hours Outside Core Time:
+- Employees may adjust start/end times around core hours
+- Must work agreed full-time equivalent (typically 40 hours/week)
+- Coordinate with manager and team for coverage
+- Document schedule in team calendar
+- Maintain appropriate work-life boundaries
+
+Schedule Changes:
+- Notify team of significant schedule variations
+- Update calendar for availability visibility
+- Provide advance notice for extended unavailability
+- Be flexible for critical meetings outside normal hours
+
+Meeting Expectations:
+- Camera-on for team meetings and collaboration sessions
+- Camera optional for large all-hands or training sessions
+- Join meetings on time from professional environment
+- Minimize background distractions
+- Use mute when not speaking
+- Professional attire (business casual minimum)
+
+Response Time Commitments:
+- Email: Respond within 24 hours (4 hours for urgent)
+- Slack/Teams: Respond within 4 hours during core hours
+- Calendar invites: Accept/decline within 48 hours
+- Set status when unavailable (lunch, focused work, etc.)
+- Use auto-responders when out of office
+
+6. HYBRID WORK GUIDELINES
+
+Office Days:
+- Minimum 2 days per week in office (guideline: Tuesday-Thursday)
+- Teams coordinate to ensure collaboration and mentorship
+- All-team days designated monthly (usually mid-month Thursday)
+- Adjust around company events and quarterly meetings
+
+Strategic Use of Office Time:
+Prioritize office days for:
+- Team meetings and collaborative working sessions
+- One-on-one meetings with manager
+- Cross-functional collaboration
+- Client meetings when hosted at office
+- Learning and development activities
+- Networking and culture building
+
+Remote Days:
+Optimize remote days for:
+- Focused individual work (coding, writing, analysis)
+- Deep concentration tasks
+- Meetings that don't require physical presence
+- International team calls outside office hours
+- Reducing commute time for work-life balance
+
+Desk Hoteling:
+- ACME uses "hotelling" (unassigned seating) in most offices
+- Reserve desk through office management system
+- Lockers available for personal item storage
+- Clean desk at end of day
+- Designated team neighborhoods in office
+- Personal assigned desks available for specific roles
+
+7. REMOTE WORK REQUIREMENTS
+
+Home Office Requirements:
+
+Workspace:
+- Dedicated space for work (separate from living areas when possible)
+- Ergonomic chair and desk at appropriate height
+- Good lighting to reduce eye strain
+- Professional background for video calls
+- Quiet environment minimizing disruptions
+- Climate controlled for comfort and equipment
+
+Technology:
+- Company-provided laptop and peripherals
+- Reliable internet: 25 Mbps download / 5 Mbps upload minimum
+- Backup connectivity option (mobile hotspot)
+- Webcam (built-in or external) with 720p minimum resolution
+- Headset with microphone for clear audio
+- Second monitor (provided by ACME if needed)
+
+Security:
+- Secure, password-protected home WiFi network
+- No shared devices for work purposes
+- Encrypted hard drive (automatic on company devices)
+- Virtual Private Network (VPN) for sensitive data access
+- Screen lock after 5 minutes of inactivity
+- No public WiFi for accessing confidential data
+- Compliance with ACME security policies
+
+Office Setup Stipend:
+ACME provides one-time home office stipend:
+- Remote-First employees: $1,000 USD (or local currency equivalent)
+- Hybrid employees working remotely 2+ days/week: $500 USD
+
+Eligible expenses:
+- Desk and ergonomic chair
+- Monitor, keyboard, mouse
+- Lighting
+- Headset and webcam
+- Office supplies
+
+Submit receipts within 90 days of arrangement approval
+
+8. EQUIPMENT AND TECHNOLOGY
+
+Company-Provided Equipment:
+
+Standard Remote Worker Package:
+- Laptop (Mac or PC based on role)
+- Docking station
+- External monitor (up to 27")
+- Keyboard and mouse
+- Noise-cancelling headset
+- Webcam (if laptop camera insufficient)
+- Monitor riser or laptop stand
+
+Additional Equipment Upon Request:
+- Second external monitor (with manager approval)
+- Ergonomic accessories (wrist rest, footrest)
+- Specialized equipment for role requirements
+
+Equipment Policies:
+- Remains property of ACME Corporation
+- Must be returned upon termination or arrangement change
+- Report lost or stolen equipment immediately to IT
+- Annual asset verification required
+- Responsibility for reasonable care and security
+
+Software and Services:
+- Microsoft 365 including Teams
+- Slack for team communication
+- Zoom for video conferencing
+- VPN for secure access
+- Password manager (1Password)
+- Role-specific applications and tools
+
+Internet Reimbursement:
+- Hybrid employees (2+ days remote): $50 USD per month
+- Remote-First employees: $75 USD per month
+- Fully Remote employees: $100 USD per month
+- Submit expense report monthly with internet bill
+
+Mobile Phone:
+- Company-provided mobile for customer-facing roles
+- Monthly stipend for personal phone use: $75 USD (with manager approval)
+- Required for two-factor authentication and emergency contact
+
+9. COMMUNICATION AND COLLABORATION
+
+Communication Principles:
+
+Overcommunicate:
+- Default to transparency and over-sharing information
+- Document decisions and discussions in writing
+- Proactive status updates to team and manager
+- Make work visible through shared documents and updates
+
+Asynchronous First:
+- Prefer written communication over synchronous meetings
+- Document meeting outcomes for absent team members
+- Record important meetings for reference
+- Use collaborative documents for input and feedback
+
+Meeting Best Practices:
+- Always include clear agenda in calendar invite
+- Circulate pre-read materials 24 hours in advance
+- Start and end on time
+- Document decisions and action items
+- Send meeting notes within 24 hours
+- Consider if meeting could be an email
+
+Tools and Channels:
+
+Email:
+- Formal communication, external contacts, documentation
+- Include clear subject lines
+- Keep cc: lists manageable
+- Expected response: 24 hours
+
+Slack/Teams:
+- Real-time communication and quick questions
+- Use channels vs. DMs for transparency
+- Thread conversations to keep channels organized
+- Set status to indicate availability
+- Expected response: 4 hours during core hours
+
+Video Conferencing:
+- Team meetings, one-on-ones, collaborative sessions
+- Zoom for external meetings
+- Teams for internal meetings
+- Record when useful for absent participants
+
+Project Management Tools:
+- Jira for engineering projects
+- Asana for cross-functional initiatives
+- Update status at least weekly
+- Tag people for actions and decisions
+
+Shared Documents:
+- Google Workspace for collaboration
+- Single source of truth for project information
+- Version control and clear ownership
+- Comment features for feedback
+
+10. MANAGER RESPONSIBILITIES
+
+Managing Remote and Hybrid Teams:
+
+Clear Expectations:
+- Define goals and success metrics clearly
+- Document performance expectations
+- Set deliverable deadlines
+- Clarify communication norms
+- Establish response time expectations
+
+Regular Check-ins:
+- Weekly one-on-ones minimum (30-60 minutes)
+- Daily team standup or async check-in
+- Monthly team meetings for alignment
+- Quarterly goal review and feedback
+
+Focus on Outcomes:
+- Measure results, not hours worked
+- Evaluate quality and impact of work
+- Avoid micromanagement and surveillance
+- Trust employees to manage time effectively
+
+Team Culture:
+- Foster inclusion of remote and office workers equally
+- Celebrate wins and milestones virtually
+- Facilitate team bonding activities
+- Address issues and conflicts promptly
+- Model healthy work-life boundaries
+
+Professional Development:
+- Equal access to training and development
+- Career growth opportunities regardless of location
+- Mentorship and coaching
+- Support conference attendance (virtual and in-person)
+
+Technology Enablement:
+- Ensure team has tools needed for success
+- Troubleshoot technology issues promptly
+- Provide training on new tools and platforms
+- Advocate for team needs with IT and leadership
+
+Fairness and Equity:
+- No favoritism based on office presence
+- Promotion and compensation decisions based on performance
+- Equal information access for remote and office workers
+- Rotation of less desirable tasks and schedules
+
+11. EMPLOYEE RESPONSIBILITIES
+
+Productivity and Performance:
+- Maintain or improve productivity in remote arrangement
+- Meet deadlines and quality standards
+- Communicate proactively about challenges
+- Seek feedback and continuous improvement
+- Deliver results aligned with team goals
+
+Communication:
+- Be responsive during core hours
+- Proactively share progress and blockers
+- Over-communicate to compensate for physical distance
+- Keep calendar updated with availability
+- Use video for important discussions
+
+Collaboration:
+- Actively participate in team meetings
+- Contribute to team culture and morale
+- Support teammates and share knowledge
+- Be inclusive of all team members
+- Build relationships across remote and office colleagues
+
+Boundaries:
+- Maintain regular work schedule
+- Take breaks and lunch away from desk
+- Use vacation time to recharge
+- Set clear work hours with household members
+- Disconnect after work hours (except during on-call)
+- Avoid working while sick
+
+Security and Compliance:
+- Follow all IT security policies
+- Protect confidential information
+- Use VPN for sensitive data access
+- Report security incidents immediately
+- Maintain secure home office environment
+- Complete required security training
+
+Workspace:
+- Maintain professional, ergonomic workspace
+- Ensure reliable internet connectivity
+- Minimize background noise and distractions during meetings
+- Professional appearance for video calls
+- Respect confidential information privacy
+
+12. INTERNATIONAL AND CROSS-BORDER CONSIDERATIONS
+
+Working from Different Countries:
+
+Temporary International Work (less than 90 days/year):
+- Employees may work temporarily from other countries with approval
+- Advance notice required (minimum 2 weeks)
+- Must not create tax or employment nexus
+- Maintain core hour overlap with team
+- Limited to countries where ACME has entity or PEO relationship
+
+Permanent International Relocation:
+- Requires formal approval from VP and HR
+- ACME must have legal entity or PEO in target country
+- May require role or compensation adjustment
+- Immigration and work authorization employee's responsibility
+- Tax implications and treaty benefits review required
+- Minimum 90-day notice required
+
+Current ACME Employment Countries:
+- United States (all states)
+- Canada (all provinces)
+- United Kingdom
+- Ireland
+- Germany
+- France
+- Netherlands
+- Sweden
+- Switzerland
+- Australia
+- Singapore
+- Japan
+- India
+- Brazil
+
+Digital Nomad Arrangements:
+- Available for Fully Remote employees only
+- SVP approval required
+- Maximum 90 days in any single location (unless authorized for longer)
+- Must maintain core hour overlap
+- Internet connectivity verification required
+- Travel insurance and health coverage confirmation
+- Tax and social security implications employee responsibility
+- Regular check-ins with manager (at least weekly)
+
+Time Zone Expectations:
+- Fully Remote employees must maintain 4-hour overlap with core team hours
+- May shift schedule to accommodate time zone differences
+- Attend critical meetings even if outside normal hours
+- Limit time zone difference to +/- 8 hours from team
+- Temporary exceptions for family emergencies or special circumstances
+
+Tax and Legal Compliance:
+- Employee responsible for understanding tax implications
+- Notify HR of location changes >30 days
+- ACME may adjust withholding based on work location
+- Employee responsible for state/provincial tax filings
+- Work with ACME payroll on location-based requirements
+
+13. PARENTAL AND CAREGIVER FLEXIBILITY
+
+ACME recognizes the challenges of balancing work with parenting and caregiving responsibilities.
+
+Flexibility for Parents/Caregivers:
+- Adjusted core hours to accommodate school drop-off/pickup
+- Ability to take breaks for caregiving needs
+- Make up hours outside traditional schedule
+- Prioritize outcomes over specific hours worked
+- Use sick leave for family care (per company policy)
+
+Return from Parental Leave:
+- Option for gradual return (50%, 75%, 100% over first month)
+- Flexible schedule during transition period
+- Extended remote work option for first 6 months after return
+- Support for nursing mothers (private space, breaks)
+
+Emergency Caregiving:
+- Flexibility for unexpected school closures
+- Accommodation for sick family member care
+- Last-minute schedule adjustments when needed
+- Backup care resources and support
+
+Children and Dependents During Work Hours:
+- Understand that caregiving emergencies happen
+- Children may briefly appear on video calls
+- Background noise accommodated with understanding
+- Not a substitute for regular childcare during work hours
+- Professional conduct and focus still expected
+
+14. EXPENSES AND REIMBURSEMENT
+
+Reimbursable Remote Work Expenses:
+
+Home Office Setup (One-Time):
+- Desk, chair, lighting: up to stipend amount
+- Monitor, keyboard, mouse (if not company-provided)
+- Office supplies and organization
+- Ergonomic accessories
+- Submit receipts within 90 days
+
+Recurring Monthly Expenses:
+- Internet service (per reimbursement rate)
+- Mobile phone (if approved)
+- Utility increases for home office (with documentation)
+
+Business Expenses (As Incurred):
+- Travel to office or company events
+- Client meetings and entertainment
+- Professional development and training
+- Supplies and materials for work
+- Software and tools (with manager approval)
+
+Non-Reimbursable Expenses:
+- Rent or mortgage
+- Home renovations or improvements
+- Basic utilities (unless incremental and documented)
+- Furniture beyond initial stipend
+- Personal electronics and devices
+
+Expense Submission:
+- Submit through expense management system within 30 days
+- Include itemized receipts for amounts over $25
+- Manager approval required for non-standard expenses
+- Payment processed within 10 business days
+- Tax implications employee responsibility
+
+15. HEALTH, SAFETY, AND ERGONOMICS
+
+Ergonomic Best Practices:
+
+Monitor Position:
+- Top of screen at or slightly below eye level
+- 20-24 inches from eyes
+- Directly in front of you (not angled)
+- Brightness adjusted to match ambient lighting
+
+Chair and Desk:
+- Adjustable chair with lumbar support
+- Feet flat on floor or footrest
+- Elbows at 90-degree angle when typing
+- Keyboard and mouse at same level
+- Desk height allowing relaxed shoulders
+
+Lighting:
+- Avoid glare on screen
+- Sufficient light to reduce eye strain
+- Natural light when possible
+- Task lighting for documents
+
+Breaks and Movement:
+- 20-20-20 rule: Every 20 minutes, look 20 feet away for 20 seconds
+- Stand and stretch hourly
+- Walk during phone calls when possible
+- Lunch away from desk
+- Regular exercise and movement
+
+Ergonomic Resources:
+- ACME provides virtual ergonomic assessments
+- Video tutorials on proper setup
+- Reimbursement for ergonomic accessories
+- Consult with occupational health if experiencing discomfort
+
+Workers' Compensation:
+- Work-related injuries covered regardless of location
+- Report injuries immediately to manager and HR
+- Document circumstances of injury
+- Seek medical attention as appropriate
+- Follow claim process per policy
+
+Mental Health and Wellbeing:
+- Employee Assistance Program (EAP) available 24/7
+- Mental health days encouraged (use sick time)
+- Virtual wellness programs and resources
+- Meditation and mindfulness app subscriptions
+- Manager check-ins on workload and stress
+- Right to disconnect outside work hours
+
+16. CAREER DEVELOPMENT AND ADVANCEMENT
+
+Equal Opportunity:
+- Remote work does not limit career advancement
+- Promotions based on performance and impact
+- Equal access to development opportunities
+- Leadership opportunities for remote employees
+
+Visibility and Networking:
+- Proactive communication with leadership
+- Participation in cross-functional projects
+- Contribution to company initiatives and culture
+- Building relationships beyond immediate team
+- Attendance at company events and conferences
+
+Professional Development:
+- Training budget available to all employees
+- Virtual and in-person conference attendance
+- Mentorship programs (including remote mentors)
+- LinkedIn Learning and other online resources
+- Lunch-and-learn sessions (virtual attendance option)
+- Internal mobility and role changes supported
+
+Mentorship:
+- Formal mentorship program matches remote and office employees
+- Virtual coffee chats encouraged across teams
+- Shadow programs for career exploration
+- Reverse mentoring opportunities
+
+Feedback and Performance:
+- Regular feedback regardless of location
+- Annual performance reviews (360-degree feedback)
+- Continuous coaching and development conversations
+- Clear growth paths and skill development plans
+
+17. MODIFICATION AND TERMINATION
+
+Arrangement Review:
+- Manager reviews remote arrangement performance at 90 days, 6 months, annually
+- Employee and manager discuss what's working and challenges
+- Adjustments made as needed
+- Renewal decision based on performance and business needs
+
+Modification of Arrangement:
+May be modified due to:
+- Changes in role responsibilities
+- Team structure changes
+- Business operational needs
+- Performance concerns
+- Technology or security issues
+- Personal circumstances changes
+
+Notice for Modifications:
+- ACME will provide 30 days notice when possible
+- Employee provides 2 weeks notice for requested changes
+- Immediate changes may be required for security or compliance
+
+Termination of Arrangement:
+Arrangement may be terminated for:
+- Unsatisfactory performance
+- Violation of remote work policies
+- Security or compliance breaches
+- Business necessity requiring office presence
+- Role change incompatible with remote work
+
+Transition Upon Termination:
+- Return to office-based arrangement (if employment continues)
+- 30-day transition period when possible
+- Equipment return or reassignment
+- Expense adjustment (internet, phone stipends)
+
+Return of Equipment:
+Upon employment termination or arrangement change:
+- Return all company equipment within 10 days
+- Coordinate with IT for pickup or shipping
+- Complete offboarding checklist
+- Confirm data deletion from personal devices
+- Final expense reimbursement submitted
+
+18. POLICY COMPLIANCE AND REVIEW
+
+Manager Monitoring:
+- Managers assess productivity, communication, collaboration
+- No surveillance software or excessive monitoring
+- Trust-based approach focused on outcomes
+- Address issues promptly and directly
+
+Policy Violations:
+- Violations may result in modification or termination of arrangement
+- Serious violations (security breaches) may result in disciplinary action
+- Repeated performance issues may necessitate return to office
+- Document violations and remediation attempts
+
+Annual Policy Review:
+- Policy reviewed annually by HR and leadership
+- Employee feedback solicited on policy effectiveness
+- Updates made to reflect changing business needs
+- Communication of policy changes to all employees
+
+Exceptions:
+- Exceptions to policy require SVP approval
+- Document rationale for exception
+- Review exceptions annually
+- Limit exceptions to maintain policy equity
+
+19. RESOURCES AND SUPPORT
+
+IT Support:
+- Help desk available during business hours: +1-555-0175
+- 24/7 emergency support for critical issues
+- Remote desktop support for troubleshooting
+- Equipment replacement within 48 hours
+- Knowledge base and self-service resources
+
+HR Support:
+- Remote work questions: remotework@acme.corp
+- Policy clarification and interpretation
+- Arrangement approval process guidance
+- Conflict resolution and mediation
+
+Facilities:
+- Office desk reservation system
+- Locker assignment and management
+- Visitor policies and guest access
+- Parking and building access
+
+Ergonomics:
+- Virtual ergonomic assessment: ergo@acme.corp
+- Video tutorials and guides
+- Reimbursement request process
+- Occupational health consultations
+
+Mental Health and Wellness:
+- Employee Assistance Program: +1-800-555-0180 (24/7)
+- Wellness app subscriptions (Calm, Headspace)
+- Virtual fitness classes
+- Mental health resources and referrals
+
+20. CONTACT INFORMATION
+
+For questions or concerns about this policy:
+
+Remote Work Program Manager: remotework@acme.corp
+Human Resources: hr@acme.corp | +1-555-0160
+IT Support: itsupport@acme.corp | +1-555-0175
+Facilities: facilities@acme.corp | +1-555-0165
+
+---
+
+Policy Version History:
+- Version 3.0: January 1, 2026 - Updated for international expansion
+- Version 2.5: July 1, 2025 - Added digital nomad provisions
+- Version 2.0: January 1, 2025 - Comprehensive revision post-pandemic
+- Version 1.0: March 15, 2020 - Emergency remote work policy
+
+Next Scheduled Review: December 2026
+
+Approved by:
+Sarah Mitchell, Chief Executive Officer
+Patricia Rodriguez, Chief Human Resources Officer
+David Kim, Chief Information Officer
+
+###

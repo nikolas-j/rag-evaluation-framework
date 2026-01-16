@@ -1,0 +1,87 @@
+ACME CORPORATION INFORMATION SECURITY POLICY
+Effective Date: March 15, 2025
+Policy Version: 2.1
+Owner: Chief Information Security Officer (CISO)
+
+PURPOSE
+This policy establishes security requirements to protect ACME Corporation's information assets, systems, and data.
+
+PASSWORD REQUIREMENTS
+
+1. Complexity Standards
+   - Minimum length: 12 characters
+   - Must include: uppercase letters, lowercase letters, numbers, and special characters
+   - Cannot contain username or company name
+   - Cannot reuse last 10 passwords
+
+2. Password Management
+   - Passwords must be changed every 90 days
+   - Maximum login attempts before account lockout: 5 attempts
+   - Account lockout duration: 30 minutes
+   - Multi-factor authentication (MFA) is required for:
+     * VPN access
+     * Email access from external networks
+     * Administrative accounts
+     * Financial systems
+
+DATA CLASSIFICATION
+
+Level 1 - Public: Information approved for public release
+Level 2 - Internal: General business information for internal use only
+Level 3 - Confidential: Sensitive business data requiring protection
+Level 4 - Restricted: Highly sensitive data (PII, financial records, trade secrets)
+
+Level 4 data must be encrypted both at rest and in transit using AES-256 encryption.
+
+ACCEPTABLE USE POLICY
+
+Permitted Activities:
+- Business-related internet browsing
+- Professional development and research
+- Limited personal use during breaks (less than 30 minutes per day)
+
+Prohibited Activities:
+- Downloading or distributing copyrighted material without authorization
+- Accessing, storing, or transmitting illegal, offensive, or discriminatory content
+- Installing unauthorized software or applications
+- Using company resources for personal business ventures
+- Sharing credentials or allowing unauthorized access to systems
+
+DEVICE SECURITY
+
+Corporate Devices:
+- Full disk encryption required on all laptops and mobile devices
+- Automatic screen lock after 10 minutes of inactivity
+- Devices must be physically secured when unattended
+- Lost or stolen devices must be reported to IT Security within 2 hours
+
+BYOD (Bring Your Own Device):
+- Personal devices accessing corporate email must have:
+  * Device passcode/biometric authentication
+  * Remote wipe capability enabled
+  * Latest operating system security updates
+- Corporate data must be stored only in approved applications
+
+INCIDENT REPORTING
+All security incidents must be reported to the Security Operations Center (SOC) immediately:
+- Email: security@acme.corp
+- Hotline: 1-800-555-SECURE (24/7)
+- Internal Extension: 7911
+
+Response time targets:
+- Critical incidents (data breach, ransomware): 15 minutes
+- High priority incidents: 1 hour
+- Medium priority incidents: 4 hours
+- Low priority incidents: 24 hours
+
+TRAINING AND COMPLIANCE
+- Annual security awareness training is mandatory for all employees
+- Phishing simulation tests conducted quarterly
+- Policy acknowledgment required within 30 days of hire and annually thereafter
+- Violations may result in disciplinary action including termination
+
+POLICY REVIEW
+This policy is reviewed and updated annually or as needed based on emerging threats and regulatory requirements.
+
+Last Review Date: March 15, 2025
+Next Review Date: March 15, 2026

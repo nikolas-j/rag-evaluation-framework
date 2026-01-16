@@ -1,0 +1,226 @@
+ACME CLOUDANALYTICS PLATFORM
+PRODUCT FAQ
+
+Last Updated: May 1, 2025
+Version: 4.3
+
+GENERAL QUESTIONS
+
+Q: What is ACME CloudAnalytics?
+A: ACME CloudAnalytics is an enterprise-grade cloud analytics platform that enables organizations to analyze, visualize, and derive insights from their data at scale. Our platform combines traditional business intelligence with AI-powered analytics to deliver faster time-to-insight.
+
+Q: What types of data sources can I connect?
+A: CloudAnalytics supports 200+ native connectors including:
+- Databases: PostgreSQL, MySQL, Oracle, SQL Server, MongoDB, Snowflake, BigQuery, Redshift
+- Cloud Storage: AWS S3, Azure Blob Storage, Google Cloud Storage
+- SaaS Applications: Salesforce, HubSpot, Zendesk, Jira, Google Analytics, Marketo
+- Streaming: Kafka, Kinesis, Pub/Sub
+- Files: CSV, JSON, Parquet, Avro, Excel
+
+Custom connectors can be built using our REST API and SDK.
+
+Q: What are the system requirements?
+A: CloudAnalytics is a fully cloud-native SaaS solution with no local installation required. Users need:
+- Modern web browser (Chrome 90+, Firefox 88+, Safari 14+, Edge 90+)
+- Internet connection with minimum 5 Mbps bandwidth
+- Screen resolution of 1280x720 or higher
+
+For optimal performance with large datasets (1M+ rows), we recommend 10 Mbps+ bandwidth.
+
+PRICING AND LICENSING
+
+Q: How is CloudAnalytics priced?
+A: We offer three pricing tiers:
+
+Starter Plan: $5,000/month
+- Up to 10 users
+- 500 GB data storage
+- Standard connectors (50+)
+- Email support
+- 24-hour SLA
+
+Professional Plan: $15,000/month
+- Up to 50 users
+- 2 TB data storage
+- All connectors (200+)
+- Advanced visualizations
+- AI-powered insights
+- Priority support (phone + email)
+- 4-hour SLA
+
+Enterprise Plan: Custom pricing (starting at $50,000/month)
+- Unlimited users
+- Custom data storage limits
+- Dedicated account manager
+- Custom integrations
+- White-glove onboarding
+- 99.9% uptime SLA
+- 1-hour SLA for critical issues
+
+Additional usage charges:
+- Extra users: $200/user/month (after included limit)
+- Extra storage: $250/TB/month
+- API calls: $0.01 per 1,000 calls above 1M/month
+
+Q: Is there a free trial?
+A: Yes, we offer a 14-day free trial of the Professional Plan with no credit card required. Trial includes access to all features, sample datasets, and self-service onboarding resources.
+
+Q: What is your refund policy?
+A: We offer a 30-day money-back guarantee for new customers on annual contracts. Monthly subscriptions can be canceled at any time with charges prorated to the cancellation date.
+
+SECURITY AND COMPLIANCE
+
+Q: How is my data secured?
+A: Security is our top priority. CloudAnalytics implements:
+- AES-256 encryption for data at rest
+- TLS 1.3 encryption for data in transit
+- SOC 2 Type II certified operations
+- ISO 27001 certified information security management
+- Regular third-party penetration testing (quarterly)
+- Dedicated security operations center (SOC) monitoring 24/7
+
+Q: What compliance certifications do you have?
+A: CloudAnalytics is compliant with:
+- SOC 2 Type II (audited annually)
+- ISO 27001:2013
+- GDPR (EU General Data Protection Regulation)
+- HIPAA (for healthcare customers with BAA)
+- CCPA (California Consumer Privacy Act)
+- PCI DSS Level 1 (for payment data processing)
+
+Q: Where is data stored?
+A: We operate data centers in multiple regions:
+- United States: US-East (Virginia), US-West (Oregon)
+- Europe: EU-Central (Frankfurt), EU-West (Ireland)
+- Asia-Pacific: APAC-Southeast (Singapore), APAC-Northeast (Tokyo)
+
+Customers can choose their primary data residency region. Data is replicated within the region for redundancy but never leaves the region without explicit customer configuration.
+
+FEATURES AND CAPABILITIES
+
+Q: What visualization types are available?
+A: CloudAnalytics supports 40+ visualization types including:
+- Standard: Bar charts, line charts, pie charts, scatter plots, heat maps
+- Advanced: Sankey diagrams, treemaps, waterfall charts, funnel analysis
+- Geographic: Choropleth maps, point maps, flow maps with 200+ countries
+- Statistical: Box plots, violin plots, regression analysis, distribution curves
+- Custom: Build custom visualizations using our D3.js-based visualization SDK
+
+Q: How does the AI analytics module work?
+A: Our AI analytics module (launched March 2025) provides:
+
+Automated Insights:
+- Anomaly detection that identifies outliers and unusual patterns
+- Trend forecasting using machine learning (ARIMA, Prophet, LSTM models)
+- Natural language insight generation explaining "why" metrics changed
+
+Natural Language Query:
+- Ask questions in plain English like "What were sales by region last quarter?"
+- Supports follow-up questions and conversation context
+- Available in 12 languages
+
+Smart Recommendations:
+- Suggests relevant visualizations based on data types
+- Recommends related analyses based on user behavior
+- Auto-generates executive summaries of dashboards
+
+The AI module requires the Professional or Enterprise plan and adds $50/user/month.
+
+Q: Can I embed dashboards in my application?
+A: Yes, CloudAnalytics supports embedding via:
+- iFrame embedding (simple integration)
+- JavaScript SDK (advanced customization)
+- REST API (programmatic access)
+
+Embedded dashboards can be branded with your logo and colors. Public sharing and password-protected sharing are both supported.
+
+Q: What collaboration features exist?
+A: Collaboration features include:
+- Real-time co-editing of dashboards (up to 10 concurrent users)
+- Comments and annotations on visualizations
+- @mentions to notify team members
+- Version history with rollback capability
+- Scheduled reports via email (daily, weekly, monthly)
+- Slack and Microsoft Teams integrations for alerts
+
+PERFORMANCE AND RELIABILITY
+
+Q: How fast can CloudAnalytics process data?
+A: Performance depends on data volume and query complexity:
+- Interactive queries (<1M rows): < 2 seconds
+- Medium datasets (1M-10M rows): 2-10 seconds
+- Large datasets (10M-100M rows): 10-30 seconds
+- Very large datasets (100M+ rows): 30-120 seconds
+
+Our AI-native architecture delivers 40% faster query performance compared to traditional analytics platforms based on TPC-H benchmarks.
+
+Q: What is your uptime SLA?
+A: SLA varies by plan:
+- Starter: 99.5% uptime (best effort)
+- Professional: 99.7% uptime
+- Enterprise: 99.9% uptime with financial credits for violations
+
+Historical uptime (trailing 12 months): 99.94%
+
+Q: How do you handle data backups?
+A: All data is automatically backed up:
+- Continuous replication to secondary availability zone
+- Daily snapshots retained for 30 days
+- Weekly snapshots retained for 90 days
+- Point-in-time recovery available for Enterprise customers
+
+SUPPORT AND TRAINING
+
+Q: What support options are available?
+A: Support varies by plan:
+
+Starter: Email support, 24-hour response time
+Professional: Email + phone support, 4-hour response time, business hours (8 AM - 8 PM ET)
+Enterprise: 24/7 phone + email support, 1-hour response for critical issues, dedicated Slack channel
+
+Q: Do you offer training?
+A: Yes, we provide:
+- Self-paced video courses (20+ hours of content, free)
+- Live webinars (weekly, free)
+- Certification program ($499, includes exam and digital badge)
+- Custom on-site training (Enterprise customers only)
+- Documentation portal with 500+ articles
+
+Q: How long does implementation take?
+A: Implementation timeline varies:
+- Starter: Self-service, typically 1-3 days
+- Professional: 1-2 weeks with our onboarding team
+- Enterprise: 4-8 weeks including data migration, custom integrations, and training
+
+All plans include a dedicated onboarding specialist.
+
+TECHNICAL QUESTIONS
+
+Q: What APIs are available?
+A: CloudAnalytics provides RESTful APIs for:
+- Data ingestion (bulk and streaming)
+- Query execution and results retrieval
+- Dashboard and visualization management
+- User and permission management
+- Usage and billing analytics
+
+API rate limits:
+- Starter: 10,000 requests/day
+- Professional: 100,000 requests/day
+- Enterprise: Custom limits
+
+Q: Can I export data and visualizations?
+A: Yes, exports are supported in multiple formats:
+- Data: CSV, JSON, Excel, Parquet
+- Visualizations: PNG, SVG, PDF
+- Dashboards: PDF reports (scheduled or on-demand)
+- Full platform: API-based data export for migration
+
+Q: Is there a mobile app?
+A: Yes, CloudAnalytics Mobile is available for iOS and Android:
+- View and interact with dashboards
+- Receive push notifications for alerts
+- Offline access to recently viewed dashboards
+- Mobile-optimized responsive layouts
+
+Mobile app is included in Professional and Enterprise plans.

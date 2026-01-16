@@ -1,0 +1,498 @@
+ACME CORPORATION
+CUSTOMER DEMOGRAPHICS AND SEGMENTATION ANALYSIS
+Q4 2025
+
+EXECUTIVE SUMMARY
+
+This report provides a comprehensive analysis of ACME Corporation's customer base as of December 31, 2025. Our customer portfolio demonstrates strong diversification across industries, geographies, and company sizes, positioning us well for sustainable growth.
+
+Key Findings:
+- Total active customers: 30,820 (35% growth YoY)
+- Enterprise segment (>$100K annual): 4,215 customers, 72% of revenue
+- Geographic diversity: 127 countries with active customers
+- Industry concentration: No single industry exceeds 23% of revenue
+- Customer lifetime value: Average $487,000 over 5.2 years
+
+CUSTOMER BASE OVERVIEW
+
+Total Customer Metrics:
+- Active Customers (as of Dec 31, 2025): 30,820
+- New Customers Added in 2025: 9,267
+- Customers Lost (churn): 1,289
+- Net Customer Growth: 7,978 (35% growth rate)
+- Quarter-over-Quarter Growth: Q1: +1,847 | Q2: +2,134 | Q3: +2,389 | Q4: +2,847
+
+Customer Segmentation by Annual Contract Value (ACV):
+
+Enterprise Segment (>$100,000 ACV):
+- Number of Customers: 4,215
+- Total Annual Revenue: $2.754 billion (72% of total revenue)
+- Average ACV: $653,400
+- Year-over-Year Growth: 31% customer count, 39% revenue
+- Retention Rate: 97%
+- Average Contract Length: 3.8 years
+
+Mid-Market Segment ($25,000-$100,000 ACV):
+- Number of Customers: 8,847
+- Total Annual Revenue: $803 million (21% of total revenue)
+- Average ACV: $90,800
+- Year-over-Year Growth: 28% customer count, 32% revenue
+- Retention Rate: 94%
+- Average Contract Length: 2.1 years
+
+Small Business Segment (<$25,000 ACV):
+- Number of Customers: 17,758
+- Total Annual Revenue: $268 million (7% of total revenue)
+- Average ACV: $15,100
+- Year-over-Year Growth: 42% customer count, 38% revenue
+- Retention Rate: 88%
+- Average Contract Length: 1.3 years
+
+GEOGRAPHIC DISTRIBUTION
+
+North America:
+- Total Customers: 17,875 (58% of customer base)
+- Revenue: $2.236 billion (58% of total)
+- Countries: United States (15,234 customers), Canada (2,418), Mexico (223)
+- Growth Rate: +23% YoY
+- Average ACV: $125,100
+
+United States Regional Breakdown:
+- Northeast: 4,567 customers, $687 million revenue
+- West Coast: 3,891 customers, $612 million revenue
+- Southeast: 2,789 customers, $398 million revenue
+- Midwest: 2,456 customers, $342 million revenue
+- Southwest: 1,531 customers, $197 million revenue
+
+Canada Distribution:
+- Ontario: 1,234 customers (Toronto concentration: 789)
+- British Columbia: 512 customers (Vancouver: 378)
+- Quebec: 387 customers (Montreal: 298)
+- Alberta: 285 customers (Calgary: 176, Edmonton: 109)
+
+Europe, Middle East, and Africa (EMEA):
+- Total Customers: 6,789 (22% of customer base)
+- Revenue: $851 million (22% of total)
+- Countries: 47 countries with active customers
+- Growth Rate: +37% YoY
+- Average ACV: $125,400
+
+Top EMEA Markets:
+- United Kingdom: 2,134 customers, $289 million
+- Germany: 1,567 customers, $223 million
+- France: 892 customers, $119 million
+- Netherlands: 487 customers, $67 million
+- Sweden: 398 customers, $54 million
+- UAE: 312 customers, $43 million
+- South Africa: 267 customers, $32 million
+
+Asia Pacific (APAC):
+- Total Customers: 4,623 (15% of customer base)
+- Revenue: $588 million (15% of total)
+- Countries: 18 countries with active customers
+- Growth Rate: +42% YoY
+- Average ACV: $127,200
+
+Top APAC Markets:
+- Japan: 1,234 customers, $178 million
+- Australia: 1,089 customers, $156 million
+- Singapore: 687 customers, $98 million
+- India: 589 customers, $76 million
+- South Korea: 412 customers, $54 million
+- New Zealand: 298 customers, $26 million
+
+Latin America:
+- Total Customers: 1,533 (5% of customer base)
+- Revenue: $150 million (4% of total)
+- Countries: 15 countries with active customers
+- Growth Rate: +29% YoY
+- Average ACV: $97,800
+
+Top Latin America Markets:
+- Brazil: 623 customers, $67 million
+- Mexico: 387 customers, $38 million
+- Argentina: 234 customers, $21 million
+- Chile: 178 customers, $15 million
+- Colombia: 111 customers, $9 million
+
+INDUSTRY VERTICAL ANALYSIS
+
+Financial Services (23% of total revenue):
+- Total Customers: 3,456
+- Revenue: $879 million
+- Average ACV: $254,300
+- Key Sub-Segments:
+  * Banking: 1,234 customers, $398 million
+  * Insurance: 892 customers, $267 million
+  * Investment Management: 687 customers, $156 million
+  * FinTech: 643 customers, $58 million
+
+Use Cases: Risk analytics, fraud detection, customer segmentation, regulatory reporting, portfolio optimization
+
+Top Financial Services Customers:
+- GlobalFinance Corp: $18.7M annual contract
+- Continental Insurance Group: $12.4M annual contract
+- FinanceFirst Bank: $8.7M annual contract
+
+Healthcare and Life Sciences (18% of total revenue):
+- Total Customers: 2,867
+- Revenue: $688 million
+- Average ACV: $239,900
+- Key Sub-Segments:
+  * Healthcare Providers: 1,123 customers, $312 million
+  * Pharmaceuticals: 687 customers, $234 million
+  * Medical Devices: 512 customers, $98 million
+  * Health Insurance: 545 customers, $44 million
+
+Use Cases: Patient outcomes analysis, clinical trial analytics, supply chain optimization, population health management
+
+Top Healthcare Customers:
+- HealthCare Global Network: $14.3M annual contract
+- PharmaTech Industries: $11.2M annual contract
+- MedDevice Solutions: $9.8M annual contract
+
+Retail and Consumer Goods (16% of total revenue):
+- Total Customers: 4,234
+- Revenue: $612 million
+- Average ACV: $144,600
+- Key Sub-Segments:
+  * General Retail: 1,789 customers, $267 million
+  * E-commerce: 1,234 customers, $198 million
+  * Consumer Products: 892 customers, $112 million
+  * Restaurants/Hospitality: 319 customers, $35 million
+
+Use Cases: Customer analytics, inventory optimization, demand forecasting, pricing optimization, omnichannel analytics
+
+Top Retail Customers:
+- GlobalRetail Corp: $14.2M annual contract
+- E-Shop International: $10.5M annual contract
+- Fashion Forward Inc: $8.9M annual contract
+
+Technology and Software (14% of total revenue):
+- Total Customers: 3,678
+- Revenue: $535 million
+- Average ACV: $145,500
+- Key Sub-Segments:
+  * SaaS Companies: 1,567 customers, $245 million
+  * Hardware Manufacturers: 892 customers, $156 million
+  * IT Services: 787 customers, $98 million
+  * Telecommunications: 432 customers, $36 million
+
+Use Cases: Product analytics, user behavior analysis, operational metrics, embedded analytics for end customers
+
+Top Technology Customers:
+- CloudSystems Inc: $12.8M annual contract
+- TechSolutions Global: $9.7M annual contract
+- DevTools Company: $8.4M annual contract
+
+Manufacturing (11% of total revenue):
+- Total Customers: 2,456
+- Revenue: $421 million
+- Average ACV: $171,500
+- Key Sub-Segments:
+  * Automotive: 678 customers, $178 million
+  * Industrial Equipment: 589 customers, $134 million
+  * Aerospace: 412 customers, $87 million
+  * Electronics: 777 customers, $22 million
+
+Use Cases: Supply chain analytics, predictive maintenance, quality control, production optimization
+
+Top Manufacturing Customers:
+- TechManufacturing Inc: $11.3M annual contract
+- AutoParts Global: $10.2M annual contract
+- Industrial Systems Corp: $9.1M annual contract
+
+Professional Services (8% of total revenue):
+- Total Customers: 5,123
+- Revenue: $306 million
+- Average ACV: $59,700
+- Key Sub-Segments:
+  * Consulting: 2,134 customers, $156 million
+  * Accounting: 1,456 customers, $89 million
+  * Legal: 987 customers, $43 million
+  * Marketing Agencies: 546 customers, $18 million
+
+Use Cases: Client analytics, project profitability, resource optimization, business development insights
+
+Other Industries (10% of total revenue):
+Including: Education (2%), Government (2%), Energy (2%), Media & Entertainment (2%), Non-Profit (1%), Other (1%)
+
+CUSTOMER SIZE DISTRIBUTION
+
+By Employee Count:
+
+Enterprise (>5,000 employees):
+- Customers: 1,234
+- Revenue: $1.456 billion (38% of total)
+- Average ACV: $1.18 million
+- Typical Users per Account: 847
+
+Large Business (1,000-5,000 employees):
+- Customers: 3,891
+- Revenue: $1.234 billion (32% of total)
+- Average ACV: $317,100
+- Typical Users per Account: 234
+
+Mid-Market (250-1,000 employees):
+- Customers: 7,456
+- Revenue: $789 million (21% of total)
+- Average ACV: $105,800
+- Typical Users per Account: 67
+
+Small Business (50-250 employees):
+- Customers: 11,234
+- Revenue: $267 million (7% of total)
+- Average ACV: $23,800
+- Typical Users per Account: 18
+
+Micro Business (<50 employees):
+- Customers: 7,005
+- Revenue: $79 million (2% of total)
+- Average ACV: $11,300
+- Typical Users per Account: 5
+
+CUSTOMER ACQUISITION CHANNELS
+
+Direct Sales (Enterprise):
+- New Customers in 2025: 1,567
+- Average Deal Size: $423,100
+- Average Sales Cycle: 147 days
+- Customer Acquisition Cost (CAC): $87,400
+- Revenue Generated: $1.234 billion
+- Percentage of Total: 32%
+
+Inside Sales (Mid-Market):
+- New Customers in 2025: 3,234
+- Average Deal Size: $87,600
+- Average Sales Cycle: 67 days
+- Customer Acquisition Cost (CAC): $18,700
+- Revenue Generated: $856 million
+- Percentage of Total: 22%
+
+Self-Service/Product-Led:
+- New Customers in 2025: 3,678
+- Average Deal Size: $18,900
+- Average Sales Cycle: 12 days
+- Customer Acquisition Cost (CAC): $1,240
+- Revenue Generated: $412 million
+- Percentage of Total: 11%
+
+Partner Channel:
+- New Customers in 2025: 789
+- Average Deal Size: $156,700
+- Average Sales Cycle: 89 days
+- Customer Acquisition Cost (CAC): $31,200
+- Revenue Generated: $728 million
+- Percentage of Total: 19%
+
+Free-to-Paid Conversion:
+- Conversions in 2025: 999
+- Average Deal Size: $34,500
+- Average Time from Free to Paid: 127 days
+- Customer Acquisition Cost (CAC): $3,890
+- Revenue Generated: $595 million
+- Percentage of Total: 16%
+
+CUSTOMER ENGAGEMENT METRICS
+
+Platform Usage Statistics:
+
+Monthly Active Users: 1,047,000
+- Enterprise Customers: 712,000 MAU (68%)
+- Mid-Market Customers: 267,000 MAU (25%)
+- Small Business Customers: 68,000 MAU (6%)
+
+Average Session Duration: 42 minutes
+Daily Active Users: 623,000 (60% of MAU)
+Average Sessions per User per Month: 18.7
+
+Feature Adoption Rates:
+- Basic Dashboards: 98% of customers
+- Advanced Visualizations: 76% of customers
+- AI-Powered Insights: 42% of customers
+- Real-Time Analytics: 34% of customers
+- Embedded Analytics: 12% of enterprise customers
+- API Integration: 58% of customers
+
+Data Volume Metrics:
+- Total Data Processed in 2025: 247 million TB
+- Average per Enterprise Customer: 67 TB/month
+- Average per Mid-Market Customer: 8.3 TB/month
+- Average per Small Business Customer: 890 GB/month
+
+API Usage:
+- Total API Calls in 2025: 147 billion
+- Average per Customer: 4.8 million calls/year
+- SDK Downloads: 34,500 in 2025
+- Custom Integration Projects: 2,340
+
+CUSTOMER DEMOGRAPHICS
+
+Company Age Distribution:
+- Startups (0-3 years): 4,567 customers (15%)
+- Growth Stage (4-10 years): 8,234 customers (27%)
+- Established (11-25 years): 11,456 customers (37%)
+- Mature (>25 years): 6,563 customers (21%)
+
+Funding Status (for private companies):
+- Bootstrapped: 8,900 customers
+- Seed/Angel Funded: 3,456 customers
+- Series A-B: 2,234 customers
+- Series C+: 1,123 customers
+- Private Equity Backed: 987 customers
+
+Public vs Private:
+- Publicly Traded: 2,456 customers (67% of enterprise revenue)
+- Private Companies: 28,364 customers (33% of total revenue)
+
+Decision Maker Roles:
+- CIO/CTO: 34% of enterprise deals
+- VP/Director of Analytics: 28% of enterprise deals
+- CDO (Chief Data Officer): 18% of enterprise deals
+- VP/Director of Business Intelligence: 12% of enterprise deals
+- Other C-Level: 8% of enterprise deals
+
+User Persona Distribution:
+- Data Analysts: 423,000 users (40%)
+- Business Analysts: 314,000 users (30%)
+- Data Scientists: 136,000 users (13%)
+- Business Users: 115,000 users (11%)
+- Developers: 59,000 users (6%)
+
+CUSTOMER LIFETIME VALUE ANALYSIS
+
+Overall CLV Metrics:
+- Average Customer Lifetime: 5.2 years
+- Average Lifetime Revenue: $487,000
+- Average Gross Margin: 66%
+- Average LTV: $321,400
+- Average CAC: $28,700
+- LTV:CAC Ratio: 11.2:1
+
+CLV by Segment:
+
+Enterprise Customers:
+- Average Lifetime: 6.8 years
+- Lifetime Revenue: $2.89 million
+- LTV: $1.91 million
+- CAC: $87,400
+- LTV:CAC Ratio: 21.9:1
+
+Mid-Market Customers:
+- Average Lifetime: 4.3 years
+- Lifetime Revenue: $412,000
+- LTV: $272,000
+- CAC: $18,700
+- LTV:CAC Ratio: 14.5:1
+
+Small Business Customers:
+- Average Lifetime: 3.1 years
+- Lifetime Revenue: $67,800
+- LTV: $44,700
+- CAC: $1,240
+- LTV:CAC Ratio: 36.0:1
+
+Cohort Analysis:
+
+2021 Cohort (5-year customers):
+- Initial Customers: 4,567
+- Remaining Active: 3,234 (71% retention)
+- Year 1 Average Revenue: $45,600
+- Year 5 Average Revenue: $178,900 (292% expansion)
+- Total Revenue Generated: $2.8 billion
+
+2022 Cohort (4-year customers):
+- Initial Customers: 6,234
+- Remaining Active: 4,891 (78% retention)
+- Year 1 Average Revenue: $52,300
+- Year 4 Average Revenue: $156,700 (200% expansion)
+- Total Revenue Generated: $2.4 billion
+
+2023 Cohort (3-year customers):
+- Initial Customers: 7,891
+- Remaining Active: 6,678 (85% retention)
+- Year 1 Average Revenue: $58,900
+- Year 3 Average Revenue: $134,500 (128% expansion)
+- Total Revenue Generated: $1.9 billion
+
+2024 Cohort (2-year customers):
+- Initial Customers: 9,543
+- Remaining Active: 8,456 (89% retention)
+- Year 1 Average Revenue: $64,700
+- Year 2 Average Revenue: $98,300 (52% expansion)
+- Total Revenue Generated: $1.2 billion
+
+2025 Cohort (1-year customers):
+- Initial Customers: 9,267
+- Year 1 Average Revenue: $71,200
+- Projected 5-year Revenue: $1.8 billion
+
+CUSTOMER SATISFACTION METRICS
+
+Net Promoter Score (NPS):
+- Overall NPS: 71 (Industry Benchmark: 47)
+- Enterprise Segment: 74
+- Mid-Market Segment: 69
+- Small Business Segment: 65
+- Promoters: 67% of respondents
+- Passives: 22% of respondents
+- Detractors: 11% of respondents
+
+Customer Satisfaction (CSAT):
+- Overall CSAT: 4.7/5.0
+- Product Quality: 4.8/5.0
+- Customer Support: 4.6/5.0
+- Ease of Use: 4.7/5.0
+- Value for Money: 4.5/5.0
+- Feature Completeness: 4.6/5.0
+
+Customer Effort Score (CES):
+- Overall CES: 4.5/5.0 (lower effort = higher score)
+- Implementation: 4.3/5.0
+- Day-to-Day Usage: 4.7/5.0
+- Getting Support: 4.6/5.0
+- Adding New Features: 4.4/5.0
+
+G2 Reviews:
+- Overall Rating: 4.6/5.0
+- Number of Reviews: 3,421
+- Likelihood to Recommend: 94%
+- Quality of Support: 4.7/5.0
+- Ease of Admin: 4.5/5.0
+
+Third-Party Recognition:
+- Gartner Peer Insights: 4.7/5 stars (1,234 reviews)
+- TrustRadius: 9.2/10 (789 reviews)
+- Capterra: 4.6/5 stars (2,156 reviews)
+
+STRATEGIC INSIGHTS AND RECOMMENDATIONS
+
+Key Strengths:
+1. Strong enterprise penetration with high retention and expansion
+2. Geographic diversification reducing concentration risk
+3. Successful land-and-expand motion driving NRR of 126%
+4. High customer satisfaction scores above industry benchmarks
+5. Healthy LTV:CAC ratios across all segments
+
+Growth Opportunities:
+1. International expansion, particularly in APAC (fastest growing region at +42%)
+2. Vertical solution development for healthcare and financial services
+3. Partner channel expansion (only 19% of revenue currently)
+4. Small business segment growth (42% YoY customer growth)
+5. Feature adoption improvement (AI features only at 42% adoption)
+
+Areas for Improvement:
+1. Small business retention (88% vs 97% for enterprise)
+2. Sales cycle reduction for mid-market (currently 67 days)
+3. Geographic coverage in emerging markets
+4. Industry diversification (financial services at 23% creates some concentration)
+5. Free-to-paid conversion rate enhancement
+
+Recommended Actions for 2026:
+1. Launch vertical-specific solutions for top 5 industries
+2. Expand partner program with focus on APAC and EMEA
+3. Develop small business success playbook to improve retention
+4. Increase investment in AI feature education and adoption
+5. Establish dedicated emerging markets team
+
+###

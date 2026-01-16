@@ -1,0 +1,43 @@
+# Python
+.deepeval/
+.pytest_cache/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Virtual Environment
+.env
+.venv/
+env/
+venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Storage (runtime data)
+storage/chroma/
+storage/runs/
+
+# Config overrides (session-specific)
+configs/config_overrides.json
+
+# Backup files
+*.backup
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
