@@ -1,15 +1,16 @@
 # RAG Evaluation Framework
 
-A dashboard for systematically testing and evaluating Retrieval-Augmented Generation systems. Provides automated evaluation workflows with quality metrics, performance tracking, and configuration management for optimizing RAG pipelines. FastAPI for serving pipeline results to a simple interactive UI.
+A dashboard for systematically testing and evaluating Retrieval-Augmented Generation systems. Provides automated evaluation workflows with quality metrics, performance tracking, and configuration management. FastAPI for serving pipeline results to a simple interactive UI.
 
 ## What This Does
 
 Evaluate and optimize your RAG system by measuring:
 
+- **Automated Testing**: Provide a detailed Q/A test set to automatically run evaluation of a RAG-system.
 - **Quality Metrics**: Four LLM-as-judge scores measuring answer correctness, faithfulness to context, and retrieval quality
 - **Performance**: Retrieval latency, generation latency, and total response time per query
 - **Cost Tracking**: Input/output token usage and estimated API costs per query and evaluation run
-- **Configuration Impact**: Test how chunk size, similarity threshold, top-k retrieval, and prompts affect accuracy
+- **Optimization**: Test how different embedding/retrieval strategies (chunk size, similarity threshold, top-k, vector/hybrid search), system prompts and detailed queries affect accuracy
 
 ![Metrics](docs/keymetricsdisplay.png)
 
@@ -18,6 +19,8 @@ Run evaluations against custom test sets to validate RAG behavior on domain-spec
 ![Evaluation view](docs/eval_view.png)
 
 ## Quickstart
+
+To run a valid OpenAI API key is required in .env.
 
 ```bash
 # Install dependencies
@@ -53,6 +56,10 @@ uv run python -m scripts.cli evaluate --dataset QA_testing_sets/golden.json --nu
 # Reset vector store
 uv run python -m scripts.cli reset
 ```
+
+## Tech Stack
+
+OpenAI API, Llamaindex, ChromaDB, FastAPI, streamlit
 
 ## Configuration Parameters
 
