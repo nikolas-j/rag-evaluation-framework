@@ -1,6 +1,6 @@
 # RAG Evaluation Framework
 
-A dashboard for systematically testing and evaluating Retrieval-Augmented Generation systems. Provides automated evaluation workflows with quality metrics, performance tracking, and configuration management for optimizing RAG pipelines.
+A dashboard for systematically testing and evaluating Retrieval-Augmented Generation systems. Provides automated evaluation workflows with quality metrics, performance tracking, and configuration management for optimizing RAG pipelines. FastAPI for serving pipeline results to a simple interactive UI.
 
 ## What This Does
 
